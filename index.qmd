@@ -1,0 +1,42 @@
+---
+title: "Matthew Brown" 
+about:
+  template: trestles  # jolla  trestles  solana  marquee  broadside
+  image: IMG_6473.PNG
+  image-width: 16em
+  image-shape: round # rectangle  round  rounded
+  
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/matthew-brown-a675a624b/
+    - icon: instagram
+      text: Instagram
+      href: https://instagram.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/MatthewBrown14/MatthewBrown14
+    - icon: file-earmark-pdf
+      text: Resumé
+      href: Resume.docx.pdf
+    - icon: mailbox
+      text: Email
+      href: mailto:mab50@geneseo.edu
+
+---
+
+
+
+I am a sophmore attending suny geneseo as an accounting major. I am from the hudson valley and went to Pine Bush highschool. I am very intrested with trading stocks and typically trade stocks everyday. 
+
+## Education
+
+State University of New York at Geneseo | Geneseo, NY <br>
+B.S. in Data Analytics | Aug 2022 - May 2026 <br>
+Minor in Business Administration 
+
+## Experience
+
+Starbucks Analytics | Data Analyst Intern | May 2024 - Aug 2024
+
+

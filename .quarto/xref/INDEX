@@ -1,0 +1,23 @@
+{
+  "project.qmd": {
+    "project.html": "d666825e"
+  },
+  "index.qmd": {
+    "index.html": "02a917fb"
+  },
+  "blog-listing.qmd": {
+    "blog-listing.html": "2f43f384"
+  },
+  "posts/beer-markets/beer-markets.qmd": {
+    "beer-markets.html": "33ab67f3"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "48e9d3d9"
+  },
+  "posts/starwars/starwars_df.qmd": {
+    "starwars_df.html": "e57b93a3"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "7472c534"
+  }
+}
