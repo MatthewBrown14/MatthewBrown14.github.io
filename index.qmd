@@ -10,12 +10,9 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/matthew-brown-a675a624b/
-    - icon: instagram
-      text: Instagram
-      href: https://instagram.com
     - icon: github
       text: GitHub
-      href: https://github.com/MatthewBrown14/MatthewBrown14
+      href: https://github.com/MatthewBrown14/MatthewBrown14.github.io
     - icon: file-earmark-pdf
       text: Resumé
       href: Resume.docx.pdf
@@ -31,12 +28,12 @@ I am a sophmore attending suny geneseo as an accounting major. I am from the hud
 
 ## Education
 
-State University of New York at Geneseo | Geneseo, NY <br>
-B.S. in Data Analytics | Aug 2022 - May 2026 <br>
-Minor in Business Administration 
+Pine Bush Highschool at Pine Bush | Pine Bush, NY <br>
+High School Diploma | Sep 2018 - JUne 2022 <br>
+ 
 
 ## Experience
 
-Starbucks Analytics | Data Analyst Intern | May 2024 - Aug 2024
+Thruway Sporting Goods | Cashier | May 2022 - Aug 2022
 
 
